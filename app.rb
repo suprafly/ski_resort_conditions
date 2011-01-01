@@ -7,7 +7,7 @@ post '/' do
  builder do |xml|
 	xml.instruct!
 	xml.Response do
-		xml.Say("Hello, cock")
+		xml.Sms("Hello, cock")
 	end
  end
 
