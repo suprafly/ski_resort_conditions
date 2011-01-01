@@ -1,7 +1,6 @@
 sinatra
 builder
-rss/1.0
-rss/2.0
+rss
 dm-core
 dm-migrations
 rubygems
