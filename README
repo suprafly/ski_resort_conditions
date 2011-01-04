@@ -1,0 +1,1 @@
+A class for building a database of resorts and current condition info based on data parsed from RSS feeds. This class contains a web crawler, an rss parser, and a database.
